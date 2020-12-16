@@ -7,7 +7,7 @@ This is our first collaborative CSK and the first one where we're sending you ou
 1. Show what native tokens look like on Mary
 2. Engage locally - how we can so far
 3. Demonstrate usage of native token when Mary hits
-4. Gather and share some stories!
+4. STORYTELLING: Gather and share some stories - we'll present these on a web site, etc
 
 ### Intended Audience
 You should take a look at this starter kit if you're curious about what the backend looks like or if you want to be part of the historic roll out of Cardano
@@ -23,7 +23,7 @@ You should take a look at this starter kit if you're curious about what the back
 ### Documents
 - Planning Worksheet
 - Merchant Worksheet
-- Submission guidelines
+- Submission guidelines (2nd page of planning doc, or separate?)
 
 ### Files
 - mint-csk.sh
