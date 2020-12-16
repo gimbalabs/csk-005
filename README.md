@@ -3,6 +3,11 @@
 
 This is our first collaborative CSK and the first one where we're sending you out into the world on a mission. To commemorate it, we're going to mint 25 special NAME? tokens when Mary goes live in late-January or early-February! Today, we'll take a look at the Mary testnet and outline the challenge
 
+### Why did we make this challenge?
+1. Show what native tokens look like on Mary
+2. Engage locally - how we can so far
+3. Demonstrate usage of native token when Mary hits
+4. Gather and share some stories!
 
 ### Intended Audience
 You should take a look at this starter kit if you're curious about what the backend looks like or if you want to be part of the historic roll out of Cardano
