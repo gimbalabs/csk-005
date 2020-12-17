@@ -5,9 +5,9 @@ This is our first collaborative Cardano Starter Kit, and it's the first one wher
 
 Today, we'll take a look at the Mary testnet and outline the challenge. All sorts of new structures here from the video to how we hope you'll engage
 
-Video links: 
+Video links on YouTube: 
 - [Proto Episode 1](https://youtu.be/QZqV8P7nqlo)
-- [Challenge Description]()
+- [Challenge Description from James]()
 
 ### Intended Audience
 You should take a look at this Cardano Starter Kit if you're curious about how tokens work...and if you'd like to contribute to the historic roll out of Cardano.
