@@ -7,7 +7,9 @@ To commemorate it, we're going to mint 25 special tokens when Mary goes live in 
 
 In this CSK, we'll outline the challenge and take a look at tokens on Cardano's Launchpad network.
 
-Video links on YouTube: 
+---
+
+### Video links on YouTube: 
 - [Proto Episode 1](https://youtu.be/QZqV8P7nqlo) - a new collaboration between CAAASTdotLIVE and Gimbalabs
 - [Challenge Description from James]()
 
