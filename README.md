@@ -10,7 +10,7 @@ In this CSK, we'll outline the challenge and take a look at tokens on Cardano's 
 ---
 
 ### Video links on YouTube: 
-- [Challenge Description from James]()
+- [Challenge Description from James](https://youtu.be/HdvTZ5oX2fI)
 - [Proto Episode 1](https://youtu.be/QZqV8P7nqlo) - a new collaboration between CAAASTdotLIVE and Gimbalabs
 
 ### Intended Audience
