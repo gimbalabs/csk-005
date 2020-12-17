@@ -1,7 +1,12 @@
 # Cardano Starter Kit #005
-## Local ADA Spending Challenge
+## The Gimbalabs Local ADA Spending Challenge
 
-This is our first collaborative CSK and the first one where we're sending you out into the world on a mission. To commemorate it, we're going to mint 25 special NAME? tokens when Mary goes live in late-January or early-February! Today, we'll take a look at the Mary testnet and outline the challenge
+This is our first collaborative CSK and the first one where we're sending you out into the world on a mission. To commemorate it, we're going to mint 25 special NAME? tokens when Mary goes live in late-January or early-February! Today, we'll take a look at the Mary testnet and outline the challenge. All sorts of new structures here from the video to how we hope you'll engage
+
+Video links: 
+- [Proto Episode 1](https://youtu.be/QZqV8P7nqlo)
+- [Challenge Description]()
+
 
 ### Why did we make this challenge?
 1. Show what native tokens look like on Mary
@@ -24,6 +29,9 @@ You should take a look at this starter kit if you're curious about what the back
 - Planning Worksheet [make a copy](https://docs.google.com/document/d/1zE95LY1sQMd6kpIVY0G3ZwCE1yCtA5Il4i9HhU8MVIo/copy)
 - Merchant Worksheet [make a copy and prep for use](https://docs.google.com/document/d/1NVs80lpFzCXDZTfCGMVISWRyKtGatVKT0bsrSVmanh4/edit) - note that the Cardano logo is there just so the merchant can get to know the brand. Feel free to delete it or add your logo if that feels right.
 - Submission guidelines (2nd page of planning doc, or separate?)
+
+### Submission Instructions
+- When you've successfully spent some ADA in your community, please [fill out this form to tell us about your success!](https://lkj3u1s1jd5.typeform.com/to/NDRtQV5m)
 
 ### Files
 - csk-minter.sh
