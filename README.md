@@ -31,17 +31,18 @@ You should take a look at this Cardano Starter Kit if you're curious about how t
 - Know more about how native tokens are represented on Cardano
 - Be fired up to go spend some ADA in your community!
 
-### Documents
-- Use this Planning Checklist to prepare for your mission: [make a copy of the Google doc](https://docs.google.com/document/d/1zE95LY1sQMd6kpIVY0G3ZwCE1yCtA5Il4i9HhU8MVIo/copy), or see [the PDF included in this repository](https://github.com/GimbaLabs/csk-005/blob/main/Planning%20Checklist.pdf).
-- Bring this "Merchant Worksheet" [make a copy and prep for use](https://docs.google.com/document/d/1NVs80lpFzCXDZTfCGMVISWRyKtGatVKT0bsrSVmanh4/copy) along to support our newest Cardano adopter. Note that the Cardano logo is there just so the merchant can get to know the brand. Feel free to delete it or add your logo if that feels right, and edit this document however you'd like.
-
 ### Submission Guidelines
 - To earn the rewards for this challenge, you must share the ID of a transaction that happened on or after 17 December 2020, along with a short narrative and one photograph. 
 - [Submission instructions are included as a pdf in this repository](https://github.com/GimbaLabs/csk-005/blob/main/Submission%20Instructions.pdf).
 - When you've successfully spent some ADA in your community, please [fill out this form to tell the story and claim your rewards](https://lkj3u1s1jd5.typeform.com/to/NDRtQV5m)!
 - Reward "token bundles" consisting of 10 ADA + 1 commemorative token will be sent as soon as the Mary Era is live (late January or early February)
 
+### Documents
+- Use this Planning Checklist to prepare for your mission: [make a copy of the Google doc](https://docs.google.com/document/d/1zE95LY1sQMd6kpIVY0G3ZwCE1yCtA5Il4i9HhU8MVIo/copy), or see [the PDF included in this repository](https://github.com/GimbaLabs/csk-005/blob/main/Planning%20Checklist.pdf).
+- Bring this "Merchant Worksheet" [make a copy and prep for use](https://docs.google.com/document/d/1NVs80lpFzCXDZTfCGMVISWRyKtGatVKT0bsrSVmanh4/copy) along to support our newest Cardano adopter. Note that the Cardano logo is there just so the merchant can get to know the brand. Feel free to delete it or add your logo if that feels right, and edit this document however you'd like.
+
 ---
+
 ## Learn More
 
 ### Shell Scripts
