@@ -36,6 +36,9 @@ You should take a look at this Cardano Starter Kit if you're curious about how t
 - When you've successfully spent some ADA in your community, please [fill out this form to tell the story and claim your rewards](https://lkj3u1s1jd5.typeform.com/to/NDRtQV5m)!
 - Reward "token bundles" consisting of 10 ADA + 1 commemorative token will be sent as soon as the Mary Era is live (late January or early February)
 
+---
+## Learn More
+
 ### Shell Scripts
 In this repository, we are including these files for your reference. In order to use these scripts you'll need to have a passive node running on Cardano's Launchpad ([see configuration files here](https://hydra.iohk.io/build/5102327/download/1/index.html)).
 
