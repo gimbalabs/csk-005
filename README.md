@@ -32,7 +32,7 @@ You should take a look at this Cardano Starter Kit if you're curious about how t
 - Bring this "Merchant Worksheet" [make a copy and prep for use](https://docs.google.com/document/d/1NVs80lpFzCXDZTfCGMVISWRyKtGatVKT0bsrSVmanh4/copy) along to support our newest Cardano adopter. Note that the Cardano logo is there just so the merchant can get to know the brand. Feel free to delete it or add your logo if that feels right, and edit this document however you'd like.
 
 ### Submission Instructions
-- Submission instructions are included as a pdf in this repository.
+- [Submission instructions are included as a pdf in this repository](Cardano Starter Kit #005 _ Submission Instructions.pdf).
 - When you've successfully spent some ADA in your community, please [fill out this form to tell the story and claim your rewards](https://lkj3u1s1jd5.typeform.com/to/NDRtQV5m)!
 - Reward "token bundles" consisting of 10 ADA + 1 commemorative token will be sent as soon as the Mary Era is live (late January or early February)
 
