@@ -39,9 +39,9 @@ You should take a look at this Cardano Starter Kit if you're curious about how t
 ### Shell Scripts
 In this repository, we are including these files for your reference. In order to use these scripts you'll need to have a passive node running on Cardano's Launchpad ([see configuration files here](https://hydra.iohk.io/build/5102327/download/1/index.html)).
 
-- csk-minter.sh
-- send-token.sh
-- burn-token.sh
+- [csk-minter.sh](https://github.com/GimbaLabs/csk-005/blob/main/csk-minter.sh)
+- [send-token.sh](https://github.com/GimbaLabs/csk-005/blob/main/send-token.sh)
+- [burn-token.sh](https://github.com/GimbaLabs/csk-005/blob/main/burn-token.sh)
 
 In [Proto Episode 1](https://youtu.be/QZqV8P7nqlo), Roberto takes us on a brief tour of csk-minter.sh.
 
