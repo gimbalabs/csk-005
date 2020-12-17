@@ -29,6 +29,7 @@ You should take a look at this starter kit if you're curious about what the back
 - csk-minter.sh
 - send-token.sh
 - burn-token.sh
+
 We are including these files for your reference. In order to use these scripts you'll need to have a passive node running on Cardano's Launchpad ([see configuration files here](https://hydra.iohk.io/build/5102327/download/1/index.html)). If this is the sort of thing you'd like to learn more about, try [reading the official docs](https://docs.cardano.org/projects/cardano-node/en/latest/index.html). We are considering running a live workshop for people who want to tinker with a Cardano node without running stake pool - if that's you, be in touch!
 
 ### Extension
