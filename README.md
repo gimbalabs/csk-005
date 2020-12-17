@@ -23,26 +23,29 @@ You should take a look at this Cardano Starter Kit if you're curious about how t
 - I can make a plan and drive adoption of Cardano by spending ADA in my community.
 
 ### Outcomes
-At the end of this Cardano Starter Kit, you will
+*At the end of this Cardano Starter Kit, you will:*
 - Know more about how native tokens are represented on Cardano
 - Be fired up to go spend some ADA in your community!
 
 ### Documents
-- Planning Worksheet [make a copy](https://docs.google.com/document/d/1zE95LY1sQMd6kpIVY0G3ZwCE1yCtA5Il4i9HhU8MVIo/copy)
-- Merchant Worksheet [make a copy and prep for use](https://docs.google.com/document/d/1NVs80lpFzCXDZTfCGMVISWRyKtGatVKT0bsrSVmanh4/copy) - note that the Cardano logo is there just so the merchant can get to know the brand. Feel free to delete it or add your logo if that feels right.
+- Use this Planning Checklist to prepare for your mission: [make a copy of the Google doc](https://docs.google.com/document/d/1zE95LY1sQMd6kpIVY0G3ZwCE1yCtA5Il4i9HhU8MVIo/copy), or see the PDF included in this repository.
+- Bring this "Merchant Worksheet" [make a copy and prep for use](https://docs.google.com/document/d/1NVs80lpFzCXDZTfCGMVISWRyKtGatVKT0bsrSVmanh4/copy) along to support our newest Cardano adopter. Note that the Cardano logo is there just so the merchant can get to know the brand. Feel free to delete it or add your logo if that feels right, and edit this document however you'd like.
 
 ### Submission Instructions
-- Checklist
-- Submission Form: When you've successfully spent some ADA in your community, please [fill out this form to tell us about it](https://lkj3u1s1jd5.typeform.com/to/NDRtQV5m)!
+- Submission instructions are included as a pdf in this repository.
+- When you've successfully spent some ADA in your community, please [fill out this form to tell us about it](https://lkj3u1s1jd5.typeform.com/to/NDRtQV5m)!
 
 ### Shell Scripts
+In this repository, we are including these files for your reference. In order to use these scripts you'll need to have a passive node running on Cardano's Launchpad ([see configuration files here](https://hydra.iohk.io/build/5102327/download/1/index.html)).
+
 - csk-minter.sh
 - send-token.sh
 - burn-token.sh
 
-In this repository, we are including these files for your reference. In order to use these scripts you'll need to have a passive node running on Cardano's Launchpad ([see configuration files here](https://hydra.iohk.io/build/5102327/download/1/index.html)).
+In [Proto Episode 1](https://youtu.be/QZqV8P7nqlo), Roberto takes us on a brief tour of csk-minter.sh.
 
 ### What does it look like to use these scripts?
+While recording Proto, we didn't quite get to the point of showing how the scripts work. Take a look here:
 [![asciicast](https://asciinema.org/a/fHxFOJKRgVRUCFEeDFrDqUHKl.svg)](https://asciinema.org/a/fHxFOJKRgVRUCFEeDFrDqUHKl)
 
 ### Extensions
