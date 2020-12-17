@@ -26,8 +26,13 @@ You should take a look at this starter kit if you're curious about what the back
 - Submission guidelines (2nd page of planning doc, or separate?)
 
 ### Files
-- mint-csk.sh
+- csk-minter.sh
+- send-token.sh
+- burn-token.sh
 
 ### Extension
 - Want to know more about what's going on here? Read through the .sh files linked here, the Cardano Docs (link) and complete this Shell Scripting Tutorial (https://www.shellscript.sh/index.html) -- see how much makes sense.
 - Passive node: a step toward running a stake pool, where you can play with the blockchain - especially if you're on a testnet. Need help with this part? Reach out!
+
+
+[![asciicast](https://asciinema.org/a/fHxFOJKRgVRUCFEeDFrDqUHKl.svg)](https://asciinema.org/a/fHxFOJKRgVRUCFEeDFrDqUHKl)
