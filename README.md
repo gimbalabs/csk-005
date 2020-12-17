@@ -21,14 +21,15 @@ You should take a look at this starter kit if you're curious about what the back
 2. Go spend some ADA!
 
 ### Documents
-- Planning Worksheet
-- Merchant Worksheet
+- Planning Worksheet [make a copy](https://docs.google.com/document/d/1zE95LY1sQMd6kpIVY0G3ZwCE1yCtA5Il4i9HhU8MVIo/copy)
+- Merchant Worksheet [make a copy and prep for use](https://docs.google.com/document/d/1NVs80lpFzCXDZTfCGMVISWRyKtGatVKT0bsrSVmanh4/edit) - note that the Cardano logo is there just so the merchant can get to know the brand. Feel free to delete it or add your logo if that feels right.
 - Submission guidelines (2nd page of planning doc, or separate?)
 
 ### Files
 - csk-minter.sh
 - send-token.sh
 - burn-token.sh
+We are including these files for your reference. In order to use these scripts you'll need to have a passive node running on Cardano's Launchpad ([see configuration files here](https://hydra.iohk.io/build/5102327/download/1/index.html)). If this is the sort of thing you'd like to learn more about, try [reading the official docs](https://docs.cardano.org/projects/cardano-node/en/latest/index.html). We are considering running a live workshop for people who want to tinker with a Cardano node without running stake pool - if that's you, be in touch!
 
 ### Extension
 - Want to know more about what's going on here? Read through the .sh files linked here, the Cardano Docs (link) and complete this Shell Scripting Tutorial (https://www.shellscript.sh/index.html) -- see how much makes sense.
