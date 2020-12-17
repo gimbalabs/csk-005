@@ -13,10 +13,10 @@ Video links on YouTube:
 You should take a look at this Cardano Starter Kit if you're curious about how tokens work...and if you'd like to contribute to the historic roll out of Cardano.
 
 ### Why did we make this challenge?
-1. We want YOU to drive ADA adoption in your community.
-2. We'd like to show you what native tokens look like and how they can be sent in "token bundles", and we hope that this inspires your thinking about what Cardano can do.
-3. We'd like to gather and share some stories. We'll present all challenge submissions at [gimbalabs.com](https://gimbalabs.com), because we want all people to have ideas for how they can contribute to the widespread adoption of Cardano.
-4. Finally, we are always experimenting: with ways to collaborate, with how we format our content, and how we engage with you.
+- We want YOU to drive ADA adoption in your community.
+- We'd like to show you what native tokens look like and how they can be sent in "token bundles", and we hope that this inspires your thinking about what Cardano can do.
+- We'd like to gather and share some stories. We'll present all challenge submissions at [gimbalabs.com](https://gimbalabs.com), because we want all people to have ideas for how they can contribute to the widespread adoption of Cardano.
+- Finally, we are always experimenting: with ways to collaborate, with how we format our content, and how we engage with you.
 
 ### Learning Targets
 - I have an idea of what native tokens and token bundles will look like on Cardano.
