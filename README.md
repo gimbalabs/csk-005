@@ -3,14 +3,14 @@
 
 This is our first collaborative Cardano Starter Kit, and it's the first one where we're sending you out into the world on a mission. To commemorate it, we're going to mint 25 special tokens when Mary goes live in late-January or early-February! 
 
-Here, we'll take a look at the Mary testnet and outline the challenge.
+Here, we'll outline the challenge and take a look at tokens on Cardano's Launchpad network.
 
 Video links on YouTube: 
 - [Proto Episode 1](https://youtu.be/QZqV8P7nqlo) - a new collaboration between CAAASTdotLIVE and Gimbalabs
 - [Challenge Description from James]()
 
 ### Intended Audience
-You should take a look at this Cardano Starter Kit if you're curious about how tokens work...and if you'd like to contribute to the historic roll out of Cardano.
+You should take a look at this Cardano Starter Kit if you're curious about how tokens work...and if you'd like to contribute to the historic roll out of Cardano!
 
 ### Why did we make this challenge?
 - We want YOU to drive ADA adoption in your community.
