@@ -10,8 +10,8 @@ In this CSK, we'll outline the challenge and take a look at tokens on Cardano's 
 ---
 
 ### Video links on YouTube: 
-- [Proto Episode 1](https://youtu.be/QZqV8P7nqlo) - a new collaboration between CAAASTdotLIVE and Gimbalabs
 - [Challenge Description from James]()
+- [Proto Episode 1](https://youtu.be/QZqV8P7nqlo) - a new collaboration between CAAASTdotLIVE and Gimbalabs
 
 ### Intended Audience
 You should take a look at this Cardano Starter Kit if you're curious about how tokens work...and if you'd like to contribute to the historic roll out of Cardano!
