@@ -1,9 +1,11 @@
 # Cardano Starter Kit #005
 ## The Gimbalabs Local ADA Spending Challenge
 
-This is our first collaborative Cardano Starter Kit, and it's the first one where we're sending you out into the world on a mission. To commemorate it, we're going to mint 25 special tokens when Mary goes live in late-January or early-February! 
+This is our first collaborative Cardano Starter Kit, and it's the first one where we're sending you out into the world on a mission. 
 
-Here, we'll outline the challenge and take a look at tokens on Cardano's Launchpad network.
+To commemorate it, we're going to mint 25 special tokens when Mary goes live in late-January or early-February! 
+
+In this CSK, we'll outline the challenge and take a look at tokens on Cardano's Launchpad network.
 
 Video links on YouTube: 
 - [Proto Episode 1](https://youtu.be/QZqV8P7nqlo) - a new collaboration between CAAASTdotLIVE and Gimbalabs
